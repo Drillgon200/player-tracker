@@ -1,0 +1,16 @@
+[
+{
+  "modid": "player_tracker",
+  "name": "Player Tracker Compass",
+  "description": "A player tracker compass for 1.7.10",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Drillgon200"],
+  "credits": "Drillgon200",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
